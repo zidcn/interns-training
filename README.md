@@ -39,6 +39,8 @@ A project to help new workmates get familar with the work quickly and well.
   - Database
   - Ruby/Rails
   - Elxiir
+- practicing
+  - Do exercises on http://exercism.io, and join [Zidcn team](http://exercism.io/teams/zidcn/streams)
 
 Additionaly, you can find more useful learning resources from the company cloud drive and this Trello [board](https://trello.com/b/5EWBl79M/tech-resources).
 
