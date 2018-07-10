@@ -39,6 +39,8 @@ A project to help new workmates get familar with the work quickly and well.
   - Database
   - Ruby/Rails
   - Elxiir
+- Testing
+- Code Quality
 - practicing
   - Do exercises on http://exercism.io, and join [Zidcn team](http://exercism.io/teams/zidcn/streams)
 
