@@ -32,6 +32,8 @@ A project to help new workmates get familar with the work quickly and well.
     - https://www.vim.org/
 - Frontend
   - React
+    - https://reactjs.org/
+    - https://www.robinwieruch.de/
   - Vue
   - Static sites generator: [gatsby](https://github.com/gatsbyjs/gatsby), [vuepress](https://vuepress.vuejs.org), [jekyll](https://jekyllrb.com/) and more.
   - [wechat_app](https://developers.weixin.qq.com/miniprogram/dev/index.html)
