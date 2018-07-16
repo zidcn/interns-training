@@ -30,6 +30,8 @@ A project to help new workmates get familar with the work quickly and well.
   - Resources:
     - https://code.visualstudio.com/
     - https://www.vim.org/
+    - https://github.com/Microsoft/vscode-tips-and-tricks
+    - https://github.com/viatsko/awesome-vscode
 - Frontend
   - React
     - https://reactjs.org/
