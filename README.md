@@ -6,7 +6,6 @@ A project to help new workmates get familar with the work quickly and well.
 ## How to use it
 
 - Go through the [topics](#topics) which are related to you.
-- Submit commits to the corresponding [category](#categories), via PRs, when you are ready(be sure to read the [Contributing Guide](https://github.com/zidcn/guides/blob/master/CONTRIBUTING.md) first).
 - See if there're any issues assigned to you.
 
 ## Topics
@@ -49,44 +48,6 @@ A project to help new workmates get familar with the work quickly and well.
   - Do exercises on http://exercism.io, and join [Zidcn team](http://exercism.io/teams/zidcn/streams)
 
 Additionaly, you can find more useful learning resources from the company cloud drive and this Trello [board](https://trello.com/b/5EWBl79M/tech-resources).
-
-## Categories
-
-### TIL(Today I Learn)
-
-- Write down everything new and useful you've learned every day.
-- Keep it short, simple, precise. One sentence for one learning is preferable.
-- You can use either English or Chinese. English is preferable though.
-- Put one month's learnings in one file.
-- Use Markdown.
-- An example of one file:
-  ```markdown
-  ## 2018-07-09
-  - xxxxxxx
-  - xxxxxxx
-
-  ## 2018-07-10
-  - xxxxxx
-  - xxxxxx
-  ```
-- An example of the files structure:
-  ```
-  -- til
-  |  |
-  |   -- YOUR_NAME
-  |  |   |
-  |  |   | - 2018-06.md
-  |  |   | - 2018-07.md
-  |  |
-  |   -- SOME_OTHER_GUY
-  ```
-
-### Notes
-
-- Share your learnings with others and build a useful notes hub so it may help more people.
-- Use Markdown.
-- There're no explicit rules for how the file content should be organized. Just make it easy to understand. Take https://github.com/thoughtbot/guides as a good example.
-- You can use either English or Chinese. English is preferable though.
 
 
 ## Contributing
