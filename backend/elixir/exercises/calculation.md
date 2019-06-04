@@ -5,7 +5,7 @@ Implement a function that can calculate the given expression as string.
 Expression.calc("1+2+3+4-5")
 # => 5
 
-# Then, it can handle '*' and '/' too.
+# Then, it can handle '*' and '/' too(extra: try adding more operators such as `^`).
 
 Expression.calc("3+4*5-14/2")
 # => 16
