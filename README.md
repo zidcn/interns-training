@@ -3,12 +3,7 @@
 A project to help new workmates get familar with the work quickly and well.
 
 
-## How to use it
-
-- Go through the [topics](#topics) which are related to you.
-- See if there're any issues assigned to you.
-
-## Topics
+## Skills
 
 - Git
   - Basic commands: commit, branch, merge, rebase, fetch, pull, push
@@ -27,8 +22,9 @@ A project to help new workmates get familar with the work quickly and well.
   - You can choose whatever editor you like, as long as it's efficient to work with.
   - We recommend VSCode and Vim.
   - Resources:
-    - https://code.visualstudio.com/
     - https://www.vim.org/
+    - vimtutor
+    - https://code.visualstudio.com/
     - https://github.com/Microsoft/vscode-tips-and-tricks
     - https://github.com/viatsko/awesome-vscode
 - Frontend
@@ -37,15 +33,16 @@ A project to help new workmates get familar with the work quickly and well.
     - https://www.robinwieruch.de/
   - Vue
   - Static sites generator: [gatsby](https://github.com/gatsbyjs/gatsby), [vuepress](https://vuepress.vuejs.org), [jekyll](https://jekyllrb.com/) and more.
-  - [wechat_app](https://developers.weixin.qq.com/miniprogram/dev/index.html)
 - Backend
-  - Database
+  - Database(SQL and NoSQL)
   - Ruby/Rails
   - Elxiir
 - Testing
 - Code Quality
-- practicing
-  - Do exercises on http://exercism.io, and join [Zidcn team](http://exercism.io/teams/zidcn/streams)
+- Exercising
+  - http://exercism.io/
+  - https://www.codewars.com/
+  - https://adventofcode.com/
 
 Additionaly, you can find more useful learning resources from the company cloud drive and this Trello [board](https://trello.com/b/5EWBl79M/tech-resources).
 
