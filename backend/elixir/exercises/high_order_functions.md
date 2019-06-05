@@ -1,5 +1,5 @@
 a. Define a function `double` that takes a function of one argument as argument and
-returns a function that applies the original function twice. For example, if `inc` is a function that adds 1 to its argument, then `double(inc)` should be a function that adds 2. Think about `((double(double(double))).(inc)).(5)
+returns a function that applies the original function twice. For example, if `inc` is a function that adds 1 to its argument, then `double(inc)` should be a function that adds 2. Think about `((double(double(double))).(inc)).(5)`
 
 b. Let f and g be two one-argument functions. The composition f after g is defined to be
 the function x -> f(g(x)). Define a procedure compose that implements composition. For example,
