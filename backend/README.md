@@ -20,8 +20,8 @@ We need you to be familiar with(beginner level, at least):
 ### Exercises
   - [Local](./elixir/exercises)
   - Online:
-    - http://exercism.io/
     - https://www.codewars.com/
+    - http://exercism.io/
     - https://adventofcode.com/
 
 ## 2. SQL
