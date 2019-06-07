@@ -19,3 +19,4 @@ c. Implment a function `repeated` that does this:
 (repeated(inc, 10)).(5)
 # => 15
 ```
+You may find it convenient to use `compose` from exercise b.
