@@ -13,9 +13,11 @@ We need you to be familiar with(beginner level, at least):
 
 ## 1. Elixir
 
-### Books(either one):
-  - [Programming Elixir](https://pragprog.com/book/elixir16/programming-elixir-1-6)
-  - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
+### Books:
+  - [**Programming Elixir**](https://pragprog.com/book/elixir16/programming-elixir-1-6)
+  - [**Elixir in Action**](https://www.manning.com/books/elixir-in-action-second-edition)
+  - [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
+  - [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
 
 ### Exercises
   - [Local](./elixir/exercises)
@@ -26,13 +28,14 @@ We need you to be familiar with(beginner level, at least):
 
 ## 2. SQL
 
-### Online Courses
+### Online Course
   - https://www.codecademy.com/learn/learn-sql
 
 ## 3. Phoenix
 
 ### Books
-  - [Programming Phoenix 1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4)
+  - [**Programming Phoenix 1.4**](https://pragprog.com/book/phoenix14/programming-phoenix-1-4)
+  - [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
 
 ## 4. More
 
