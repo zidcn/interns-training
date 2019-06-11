@@ -11,6 +11,12 @@ We need you to be familiar with(beginner level, at least):
   - Common programming concepts(Such as what are Integer, Float, Array, Function, Condition, Loop, ...)
   - Basic data strucure(List, Tree, Stack, ...)
 
+## 0. Developer Fundamentals
+ - https://www.learnenough.com/
+   - Learn Enough Command Line
+   - Learn Enough Text Editor
+   - Learn Enough Git
+
 ## 1. Elixir
 
 ### Books:
