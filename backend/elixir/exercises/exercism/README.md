@@ -18,6 +18,7 @@
 - Clock
 - List Ops
 - Markdown
+- Robot Simulator
 - Simple Linked List
 
 ## Take days
